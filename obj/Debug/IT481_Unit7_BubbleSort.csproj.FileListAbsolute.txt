@@ -1,0 +1,14 @@
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.exe.config
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.exe
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.pdb
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.csprojAssemblyReference.cache
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.csproj.CoreCompileInputs.cache
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.exe
+H:\Desktop\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.pdb
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.exe.config
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.exe
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\bin\Debug\IT481_Unit7_BubbleSort.pdb
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.csprojAssemblyReference.cache
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.csproj.CoreCompileInputs.cache
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.exe
+H:\Documents\Purdue Global School Files\Advanced Software Development II\IT481_Unit7\IT481_Unit7_BubbleSort\IT481_Unit7_BubbleSort\obj\Debug\IT481_Unit7_BubbleSort.pdb
